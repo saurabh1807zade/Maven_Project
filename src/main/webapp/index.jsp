@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Thinkitive Technology Ajay Devgan<font></h1>
+<h1><font color='red'> Welcome to Thinkitive Technology Rinku Singh<font></h1>
 <h2>Which Are Based in Pune </h2>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See </a>
